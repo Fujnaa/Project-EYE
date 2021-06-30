@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Follow_Pointer : MonoBehaviour
+public class FollowPointer : MonoBehaviour
 {
 
     public GameObject myPlayer;
